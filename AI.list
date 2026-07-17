@@ -1,0 +1,42 @@
+# Quantumult X AI 分流规则
+# 策略组名称：AI
+# 用法：在 Quantumult X 中作为远程分流资源引用，或复制到 [filter_local]。
+
+# OpenAI / ChatGPT / Codex
+host-suffix, chatgpt.com, AI
+host-suffix, openai.com, AI
+host-suffix, auth.openai.com, AI
+host-suffix, oaistatic.com, AI
+host-suffix, oaiusercontent.com, AI
+host-suffix, oaistatsig.com, AI
+host-suffix, openaimerge.com, AI
+host-suffix, intercom.io, AI
+host-suffix, intercomcdn.com, AI
+host-suffix, sentry.io, AI
+host-suffix, datadoghq.com, AI
+host-suffix, stripe.com, AI
+host-suffix, workos.com, AI
+host-suffix, workoscdn.com, AI
+host-suffix, imgix.net, AI
+host, challenges.cloudflare.com, AI
+
+# Google Gemini
+host, gemini.google.com, AI
+host-suffix, googleapis.com, AI
+host-suffix, gstatic.com, AI
+host-suffix, googleusercontent.com, AI
+host-suffix, google.com, AI
+host-suffix, google-analytics.com, AI
+host-suffix, googletagmanager.com, AI
+host-suffix, doubleclick.net, AI
+
+# Google NotebookLM
+host, notebooklm.google.com, AI
+host-suffix, notebooklm.google.com, AI
+
+# X Grok / xAI
+host-suffix, grok.com, AI
+host-suffix, x.ai, AI
+host-suffix, x.com, AI
+host-suffix, twitter.com, AI
+host-suffix, twimg.com, AI
