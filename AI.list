@@ -34,9 +34,3 @@ host-suffix, doubleclick.net, AI
 host, notebooklm.google.com, AI
 host-suffix, notebooklm.google.com, AI
 
-# X Grok / xAI
-host-suffix, grok.com, AI
-host-suffix, x.ai, AI
-host-suffix, x.com, AI
-host-suffix, twitter.com, AI
-host-suffix, twimg.com, AI
