@@ -3,22 +3,37 @@
 # 用法：在 Quantumult X 中作为远程分流资源引用，或复制到 [filter_local]。
 
 # OpenAI / ChatGPT / Codex
-host-suffix, chatgpt.com, AI
-host-suffix, openai.com, AI
-host-suffix, auth.openai.com, AI
-host-suffix, oaistatic.com, AI
-host-suffix, oaiusercontent.com, AI
-host-suffix, oaistatsig.com, AI
-host-suffix, openaimerge.com, AI
-host-suffix, intercom.io, AI
-host-suffix, intercomcdn.com, AI
-host-suffix, sentry.io, AI
-host-suffix, datadoghq.com, AI
-host-suffix, stripe.com, AI
-host-suffix, workos.com, AI
-host-suffix, workoscdn.com, AI
-host-suffix, imgix.net, AI
-host, challenges.cloudflare.com, AI
+HOST-SUFFIX, itunes.apple.com, AI
+HOST-SUFFIX, smp-device-content.apple.com, AI
+HOST-SUFFIX, xp.apple.com, AI
+HOST-SUFFIX, mesu.apple.com, AI
+HOST-SUFFIX, guzzoni.apple.com, AI
+HOST-SUFFIX, smoot.apple.com, AI
+HOST-SUFFIX, gateway.icloud.com, AI
+HOST-SUFFIX, gs-loc-cn.apple.com, AI
+HOST-SUFFIX, gspe1-ssl.ls.apple.com, AI
+HOST-SUFFIX, p150-acsecgateway.icloud.com, AI
+HOST-SUFFIX, setup.icloud.com, AI
+HOST-SUFFIX, bag.itunes.apple.com, AI
+HOST, keyword.siri, AI
+HOST-SUFFIX, icloud-content.com, AI
+HOST-SUFFIX, chatgpt.com, AI
+HOST-SUFFIX, openai.com, AI
+HOST-SUFFIX, auth.openai.com, AI
+HOST-SUFFIX, oaistatic.com, AI
+HOST-SUFFIX, oaiusercontent.com, AI
+HOST-SUFFIX, oaistatsig.com, AI
+HOST-SUFFIX, openaimerge.com, AI
+HOST-SUFFIX, intercom.io, AI
+HOST-SUFFIX, intercomcdn.com, AI
+HOST-SUFFIX, sentry.io, AI
+HOST-SUFFIX, datadoghq.com, AI
+HOST-SUFFIX, stripe.com, AI
+HOST-SUFFIX, workos.com, AI
+HOST-SUFFIX, workoscdn.com, AI
+HOST-SUFFIX, imgix.net, AI
+HOST, challenges.cloudflare.com, AI
+
 
 # Google Gemini
 host, gemini.google.com, AI
